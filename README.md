@@ -10,9 +10,9 @@
 1. Data Exploration: Understand the dataset and its structure.
 2. SQL Querying: Extract, filter, and analyze data using SQL.
 3. Segmented Analysis:
-- Analyze genres, languages, and regions.
-- Evaluate box office performance and demographics.
-- Identify trends in cast, crew, and budgets.
-- Assess marketing and distribution strategies.
+  - Analyze genres, languages, and regions.
+  - Evaluate box office performance and demographics.
+  - Identify trends in cast, crew, and budgets.
+  - Assess marketing and distribution strategies.
 4. Insight Generation: Derive meaningful insights based on analysis.
 5. Exceutive Summary: Provide data-driven suggestions for global success.
